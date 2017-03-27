@@ -176,9 +176,9 @@
 <text x="201" y="177.17" size="1.778" layer="48" rot="R270">9V1</text>
 <wire x1="36.83" y1="221.92" x2="36.83" y2="96.52" width="0.3048" layer="20"/>
 <text x="165" y="100.8" size="1.778" layer="48">ATTRAPE ET CALE-MODULES</text>
-<text x="165" y="98.7" size="1.778" layer="48">DROIT</text>
+<text x="165" y="98.7" size="1.778" layer="48">DROITS</text>
 <text x="215.43" y="158.65" size="1.778" layer="48" rot="R90">ATTRAPE ET CALE-MODULES</text>
-<text x="217.53" y="168.88" size="1.778" layer="48" rot="R90">GAUCHE</text>
+<text x="217.53" y="168.88" size="1.778" layer="48" rot="R90">GAUCHES</text>
 <text x="197.1" y="212.4" size="1.778" layer="48" rot="R90">PELLE</text>
 <text x="199.09" y="212.62" size="1.778" layer="48" rot="R90">GCHE</text>
 <text x="188.99" y="207.85" size="1.778" layer="48" rot="R180">PELLE</text>

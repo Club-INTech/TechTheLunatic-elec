@@ -183,6 +183,9 @@
 <text x="199.09" y="212.62" size="1.778" layer="48" rot="R90">GCHE</text>
 <text x="188.99" y="207.85" size="1.778" layer="48" rot="R180">PELLE</text>
 <text x="180.83" y="203.7" size="1.778" layer="48">DTE</text>
+<text x="40.2" y="210" size="1.778" layer="48" rot="R90">R    N</text>
+<text x="40.2" y="180.79" size="1.778" layer="48" rot="R90">R    N</text>
+<text x="40.2" y="155.39" size="1.778" layer="48" rot="R90">N    V</text>
 </plain>
 <libraries>
 <library name="STM32F4-DISCOVERY_CF_INTECH">

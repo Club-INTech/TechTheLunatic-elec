@@ -137,7 +137,7 @@
 <text x="201.93" y="133.35" size="1.778" layer="48" rot="R90">BUZZER</text>
 <text x="169.21" y="188.225" size="1.778" layer="48" rot="R90">CONT1</text>
 <text x="180.34" y="220.98" size="1.778" layer="48" rot="R270">CODG</text>
-<text x="195.99" y="191.61" size="1.778" layer="48" rot="R90">CODA</text>
+<text x="195.99" y="191.91" size="1.778" layer="48" rot="R90">CODA</text>
 <text x="189.39" y="145.42" size="1.778" layer="48" rot="R90">JUMPER</text>
 <text x="179.38" y="149.97" size="1.778" layer="48" rot="R90">CONT2</text>
 <text x="168.91" y="148.59" size="1.778" layer="48" rot="R90">CODD</text>
@@ -145,7 +145,7 @@
 <text x="178.47" y="180.34" size="1.778" layer="48">USAVD</text>
 <text x="169.21" y="169.05" size="1.778" layer="48" rot="R90">USARD</text>
 <text x="169.21" y="178.47" size="1.778" layer="48" rot="R90">USARG</text>
-<text x="196.02" y="202.9" size="1.778" layer="48" rot="R90">USAVG</text>
+<text x="196.02" y="200.36" size="1.778" layer="48" rot="R90">USAVG</text>
 <text x="186.815" y="180.34" size="1.778" layer="48">CONT3</text>
 <text x="114.3" y="224.79" size="6.4516" layer="48">TOIT</text>
 <text x="218.44" y="154.94" size="6.4516" layer="48">AVANT</text>

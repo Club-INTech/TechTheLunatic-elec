@@ -148,7 +148,7 @@
 <text x="196.02" y="200.36" size="1.778" layer="48" rot="R90">USAVG</text>
 <text x="187.115" y="180.34" size="1.778" layer="48">CONT3</text>
 <text x="114.3" y="224.79" size="6.4516" layer="48">TOIT</text>
-<text x="218.44" y="154.94" size="6.4516" layer="48">AVANT</text>
+<text x="222.25" y="154.94" size="6.4516" layer="48">AVANT</text>
 <text x="-7.62" y="154.94" size="6.4516" layer="48">ARRIERE</text>
 <wire x1="36.83" y1="222.25" x2="36.83" y2="221.92" width="0.3048" layer="20"/>
 <text x="39.37" y="190.5" size="1.778" layer="48">ASCENSEUR</text>
